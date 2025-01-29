@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Seba010010
-- 👀 I’m interested in find my first TI job
-- 🌱 I’m currently learning JavaScript
 - 📫 Contact: s.santibanezbravo@gmail.com
 - 💞️ I’m looking to collaborate on ...
 
