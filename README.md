@@ -47,10 +47,7 @@
 
 ## 📊 Actividad en GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Seba010010&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seba010010&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
+> 💡 704 contribuciones en el último año — la mayor parte en repositorios privados de las organizaciones donde he trabajado.
 ---
 
 ## 📫 Contacto
