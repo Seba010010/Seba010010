@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27456984/README.md)
+
 # Hola, soy Sebastian Santibañez 👋
 
 **Full Stack Developer** con experiencia construyendo soluciones web empresariales, plataformas E-commerce e integraciones de APIs en empresas como **Claro Chile**, **Dimerc** y **CCU**.
@@ -47,8 +47,9 @@
 
 ## 📊 Actividad en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seba010010&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seba010010&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seba010010&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seba010010&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
 
